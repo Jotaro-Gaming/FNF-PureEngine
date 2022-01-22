@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumin instance 10000" x="0" y="0" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10001" x="898" y="0" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10002" x="898" y="0" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10003" x="0" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10004" x="0" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10005" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10006" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10007" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10008" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10009" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10010" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10011" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10012" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10013" x="898" y="706" width="898" height="706"/>
+	<SubTexture name="logo bumin instance 10014" x="898" y="706" width="898" height="706"/>
+</TextureAtlas>
